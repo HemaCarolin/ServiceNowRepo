@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Gittable" language="en" table="x_354366_gitdemoap_gittable">
+    <sys_documentation element="" label="Second Table" language="en" table="x_354366_gitdemoap_second_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Gittable</label>
+            <label>Second Table</label>
             <language>en</language>
-            <name>x_354366_gitdemoap_gittable</name>
-            <plural>Gittables</plural>
+            <name>x_354366_gitdemoap_second_table</name>
+            <plural>Second Tables</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-25 08:32:11</sys_created_on>
-            <sys_id>3bdd83f0db16330056e7f53a2996195d</sys_id>
+            <sys_created_on>2019-06-25 10:04:15</sys_created_on>
+            <sys_id>470e4734db16330056e7f53a299619e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Gittable</sys_name>
+            <sys_name>Second Table</sys_name>
             <sys_package display_value="GitDemoApp" source="x_354366_gitdemoap">6cb8b2bcdb92330056e7f53a29961974</sys_package>
             <sys_policy/>
             <sys_scope display_value="GitDemoApp">6cb8b2bcdb92330056e7f53a29961974</sys_scope>
-            <sys_update_name>sys_documentation_x_354366_gitdemoap_gittable__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_354366_gitdemoap_second_table__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-25 08:32:11</sys_updated_on>
+            <sys_updated_on>2019-06-25 10:04:15</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
