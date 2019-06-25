@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Gittable" max_length="40" name="x_354366_gitdemoap_gittable" type="collection">
+        <element label="Git 1" max_length="40" name="git_1" type="integer"/>
+        <element label="Git 2" max_length="40" name="git_2" type="integer"/>
+    </element>
+</database>
