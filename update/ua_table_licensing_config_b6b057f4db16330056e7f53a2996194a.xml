@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_354366_gitdemoap_second_table</name>
+        <name>x_354366_gitdemoap_gittable</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-25 10:04:15</sys_created_on>
-        <sys_id>830e4734db16330056e7f53a299619ed</sys_id>
+        <sys_created_on>2019-06-25 08:32:12</sys_created_on>
+        <sys_id>b6b057f4db16330056e7f53a2996194a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_354366_gitdemoap_second_table</sys_name>
+        <sys_name>x_354366_gitdemoap_gittable</sys_name>
         <sys_package display_value="GitDemoApp" source="x_354366_gitdemoap">6cb8b2bcdb92330056e7f53a29961974</sys_package>
         <sys_policy/>
         <sys_scope display_value="GitDemoApp">6cb8b2bcdb92330056e7f53a29961974</sys_scope>
-        <sys_update_name>ua_table_licensing_config_830e4734db16330056e7f53a299619ed</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_b6b057f4db16330056e7f53a2996194a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-25 10:04:15</sys_updated_on>
+        <sys_updated_on>2019-06-25 08:32:12</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

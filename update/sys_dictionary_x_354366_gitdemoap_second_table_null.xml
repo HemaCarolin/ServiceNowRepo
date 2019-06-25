@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-25 10:04:15</sys_created_on>
-        <sys_id>8f0e4734db16330056e7f53a299619cd</sys_id>
+        <sys_id>7eb057f4db16330056e7f53a2996194e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_354366_gitdemoap_second_table</sys_name>
         <sys_package display_value="GitDemoApp" source="x_354366_gitdemoap">6cb8b2bcdb92330056e7f53a29961974</sys_package>
         <sys_policy/>
         <sys_scope display_value="GitDemoApp">6cb8b2bcdb92330056e7f53a29961974</sys_scope>
-        <sys_update_name>sys_dictionary_x_354366_gitdemoap_second_table_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-25 10:04:15</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_354366_gitdemoap_second_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-25 10:15:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

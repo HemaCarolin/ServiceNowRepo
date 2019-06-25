@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="git_1" label="Git 1" language="en" table="x_354366_gitdemoap_gittable">
+    <sys_documentation element="yo2" label="Yo2" language="en" table="x_354366_gitdemoap_second_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>git_1</element>
+            <element>yo2</element>
             <help/>
             <hint/>
-            <label>Git 1</label>
+            <label>Yo2</label>
             <language>en</language>
-            <name>x_354366_gitdemoap_gittable</name>
-            <plural>Git 1s</plural>
+            <name>x_354366_gitdemoap_second_table</name>
+            <plural>Yo2s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-25 08:32:11</sys_created_on>
-            <sys_id>7eb057f4db16330056e7f53a29961932</sys_id>
+            <sys_created_on>2019-06-25 10:17:30</sys_created_on>
+            <sys_id>55115b38db16330056e7f53a29961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Git 1</sys_name>
+            <sys_name>Yo2</sys_name>
             <sys_package display_value="GitDemoApp" source="x_354366_gitdemoap">6cb8b2bcdb92330056e7f53a29961974</sys_package>
             <sys_policy/>
             <sys_scope display_value="GitDemoApp">6cb8b2bcdb92330056e7f53a29961974</sys_scope>
-            <sys_update_name>sys_documentation_x_354366_gitdemoap_gittable_git_1_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_354366_gitdemoap_second_table_yo2_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-25 08:32:11</sys_updated_on>
+            <sys_updated_on>2019-06-25 10:17:30</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
